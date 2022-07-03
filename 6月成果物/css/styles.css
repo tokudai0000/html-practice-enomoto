@@ -1,0 +1,22 @@
+.apple1{
+float: right;
+}
+
+.apple2 {
+  display: flex;
+  width: 100%
+}
+.apple3{
+  margin: auto;
+}
+
+.apple4{
+  float: right;
+}
+
+.apple6{
+  float: right;
+  margin-top: 100px;
+  border: solid 2px #797979;
+}
+
